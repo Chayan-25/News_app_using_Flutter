@@ -1,6 +1,3 @@
-
-# About Me
-Hi,I am Chayan Pati , I am 2nd year ( 4th sem )Student of B.Tech CSE  in KIIT University(2026) . My primary domain is Android App dev in Java and Kotlin but , I tried to adjust myself in other languages and started my journey in Flutter . 
 # News App
 I made this app just to show how API works in Flutter . Also I provided Screenshot inside the project to let viewer understand how the app looks like.
 ## API Reference
